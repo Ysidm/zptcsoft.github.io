@@ -75,7 +75,7 @@
 
 [01徐浩鹏](https://github.com/xhp111/xhp111.github.io)
 [02李明豪]( https://github.com/fylmh/fylmh.github.io) 
-[04尹飞燕](https://github.com/Ysidm/zptcsoft.github.io/)
+[04尹飞燕](https://github.com/Ysidm/Ysidm.github.io/)
 [05全凯俊](https://github.com/yyQKJ/yyQKJ.github.io)
 [06马驰傲](https://github.com/xiaoaoao/xiaoaoao.github.io)
 [07张铸涛](https://github.com/jhzzt/jhzzt.github.io)
